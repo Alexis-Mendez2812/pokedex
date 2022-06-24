@@ -4,7 +4,8 @@ import React from 'react'
 export default function Favorite() {
   return (
     <SafeAreaView>
-      <Text>Favorite</Text>
+      <Text>Aqui aparecerán tus favoritos </Text>
+      <Text>😁 </Text>
     </SafeAreaView>
   )
 }
